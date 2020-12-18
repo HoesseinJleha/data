@@ -1,6 +1,6 @@
 date,areaType,areaCode,areaName,newCasesByPublishDate,newCasesByPublishDateChangePercentage,newDeaths28DaysByDeathDate
-"2020-12-15",overview,K02000001,United Kingdom,18450,28.7,
-"2020-12-14",overview,K02000001,United Kingdom,20263,21.6,
+"2020-12-15",overview,K02000001,United Kingdom,18450,28.7,195
+"2020-12-14",overview,K02000001,United Kingdom,20263,21.6,200
 "2020-12-13",overview,K02000001,United Kingdom,18447,19.1,195
 "2020-12-12",overview,K02000001,United Kingdom,21502,24,259
 "2020-12-11",overview,K02000001,United Kingdom,21672,17.7,294
